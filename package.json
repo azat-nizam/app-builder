@@ -1,0 +1,16 @@
+{
+	"devDependencies": {
+		/* add here your packages */
+		// "axios": "",
+
+		/* here required packages */
+		"browserify": "",
+		"gulp": "",
+		"gulp-sourcemaps": "",
+		"gulp-util": "",
+		"lodash.assign": "",
+		"vinyl-buffer": "",
+		"vinyl-source-stream": "",
+		"watchify": ""
+	}
+}
